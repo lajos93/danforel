@@ -1,2 +1,0 @@
-# danforel
-final exam project
